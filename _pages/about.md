@@ -17,4 +17,4 @@ I think that the explosion of technology is underutilized in many domains of sci
 
 I hope to contribute of this technological scientific advancement through my research, from personal projects to group projects within academia, and through a PhD program. 
 
-Please feel free to reach out to me to chat about the universe, to collaborate on projects, or anything else.
+Please feel free to reach out to me to chat, to collaborate on projects, or anything else.
