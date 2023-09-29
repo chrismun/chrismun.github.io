@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "LLM Test Generation for OpenACC Compiler Validation"
+excerpt: "Applying large-language models to validation test generation from natural language spceification for OpenACC Compilers. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
