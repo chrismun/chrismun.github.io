@@ -1,6 +1,6 @@
 ---
 title: "LLM Test Generation for OpenACC Compiler Validation"
-excerpt: "Applying large-language models to validation test generation from natural language spceification for OpenACC Compilers. <br/><img src='/images/500x300.png'>"
+excerpt: "Applying large-language models to validation test generation from natural language spceification for OpenACC Compilers. <br/><img src='/images/llm.png'>"
 collection: portfolio
 ---
 

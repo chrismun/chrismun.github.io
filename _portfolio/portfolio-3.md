@@ -1,6 +1,6 @@
 ---
 title: "Analysis of Validating and Verifying OpenACC Compilers 3.0 and Above"
-excerpt: "Manually written testsuite for OpenACC compilers based on the specificaiton. <br/><img src='/images/500x300.png'>"
+excerpt: "Manually written testsuite for OpenACC compilers based on the specificaiton. <br/><img src='/images/parallel.png'>"
 collection: portfolio
 ---
 
