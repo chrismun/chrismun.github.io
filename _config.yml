@@ -86,8 +86,8 @@ author:
   location         : "Newark, DE"
   employer         :
   pubmed           : 
-  googlescholar    :
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=huOuKW8AAAAJ"
+  email            : "chrismun@udel.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "ChrisMunley1"
   vine             :
   weibo            :
   xing             :
